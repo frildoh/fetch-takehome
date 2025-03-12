@@ -1,10 +1,8 @@
-# Stakeholder Summary
-
 ## Subject: Fetch Data Analysis – Findings & Key Insights  
 
 **Hi Stakeholder,**  
 
-I’ve completed an initial analysis of the Fetch dataset and wanted to share key findings, outstanding questions, and next steps.  
+I’ve completed an initial analysis of the Fetch dataset and wanted to share key findings, outstanding questions, and next steps. The full analysis is attached in the Jupyter notebook for further details.
 
 ---
 
@@ -29,7 +27,7 @@ I’ve completed an initial analysis of the Fetch dataset and wanted to share ke
 
 ## 📌 Next Steps & Requests for Action
 
-- **Can we confirm if the dataset is complete or a sample?**  
+- **Can we assess how closely related the transaction and user data are?**  
 - **Are there known data pipeline issues affecting the user-transaction relationship?**  
 - **What happened in 2022 that caused a surge in new users?** Understanding this could inform future acquisition strategies.  
 
